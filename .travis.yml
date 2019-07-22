@@ -18,7 +18,7 @@ script:
   # download the latest classroom application
   - curl https://github.com/mmaelicke/notebook-classroom/releases/latest/download/notebook-classroom.zip --output app.zip
   - ls
-  - unzip app.zip -d ./dist
+  - unzip ./app.zip -d ./dist
   - ls ./dist
   
   # place the notebooks into the application
