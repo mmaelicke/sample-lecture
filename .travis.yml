@@ -22,6 +22,9 @@ script:
   # place the notebooks into the application
   - mv ./nb/* ./dist/nb
   
+  # copy configuration.js, if exists
+  - if [ -f configuration.js ]; then mv configuration.js ./dist/configuration.js; else echo "No configuration.js found"; fi
+  
   - ls ./dist
   
 deploy:
