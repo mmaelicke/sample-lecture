@@ -33,7 +33,8 @@ var Config = {
         },
         {
             label: "About",
-            link: "about.md"
+            link: "about.md",
+            type: "static"
         }
     ]
 };
