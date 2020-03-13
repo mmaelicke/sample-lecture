@@ -1,6 +1,5 @@
 # Sample Lecture
 
-[![Build Status](https://travis-ci.org/mmaelicke/sample-lecture.svg?branch=master)](https://travis-ci.org/mmaelicke/sample-lecture)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaelicke-sample-lecture/master)
 
 ## About
