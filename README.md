@@ -1,6 +1,6 @@
 # Sample Lecture
 
-![Notebook-Classrom](https://github.com/mmaelicke/sample-lecture/workflows/Notebook-Classrom/badge.svg)
+[![Notebook-Classrom](https://github.com/mmaelicke/sample-lecture/workflows/Notebook-Classrom/badge.svg)](https://mmaelicke.github.io/sample-lecture)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaelicke-sample-lecture/master)
 
 ## About
